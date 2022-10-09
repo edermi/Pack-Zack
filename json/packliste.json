@@ -190,48 +190,6 @@
         ]
     },
     {
-        "name": "Fahrrad",
-        "icon": "bicycling",
-        "color": "danger",
-        "items": [
-            "Helm",
-            "Radhosen",
-            "Trikots",
-            "Fahrradhandschuhe (kurz und lang)",
-            "Radschuhe (+ andere?)",
-            "Trinkflasche",
-            "? Regenjacke, Fahrradjacke",
-            "? Schloss",
-            "? ÖPNV Ausweis",
-            "? Fahrradbrille"
-        ],
-        "parents": [
-            "Outdoor"
-        ]
-    },
-    {
-        "name": "Fahrrad+",
-        "icon": "bicycling",
-        "color": "danger",
-        "items": [
-            "Licht",
-            "Luftpumpe",
-            "Flickset",
-            "Ersatzschlauch",
-            "Werkzeug (Multitool)",
-            "Regenschutz (Hose, Schuhe)",
-            "? Kettenöl",
-            "? Satteltasche",
-            "? Schutzbleche",
-            "? Einweghandschuhe",
-            "? Kabelbinder",
-            "? Kettenschloss"
-        ],
-        "parents": [
-            "Fahrrad"
-        ]
-    },
-    {
         "name": "Wandern",
         "icon": "trail-walking",
         "color": "danger",
@@ -246,27 +204,6 @@
             "? Handschuhe",
             "? Trinkflasche",
             "? Flachmann"
-        ],
-        "parents": [
-            "Outdoor"
-        ]
-    },
-    {
-        "name": "Geocaching",
-        "icon": "compass",
-        "color": "danger",
-        "items": [
-            "Cachebeschreibungen auf Garmin, Handy",
-            "Stifte, Papier",
-            "? Plastiktüten / Beutel",
-            "? Foto",
-            "? Kurzes Seil, Karabiner, Bandschlinge",
-            "? Handschuhe",
-            "? Fernglas",
-            "? Draht, Kabelbinder",
-            "? Regenjacke",
-            "? Magnet",
-            "? Laserpointer"
         ],
         "parents": [
             "Outdoor"
@@ -352,39 +289,6 @@
         "list": true
     },
     {
-        "name": "Skiurlaub",
-        "color": "danger",
-        "icon": "skiing",
-        "items": [
-            "Ski",
-            "Skischuhe",
-            "Skistöcke",
-            "Skihose",
-            "Skisocken",
-            "Skihelm",
-            "Skihandschuhe",
-            "Skibrille"
-        ],
-        "parents": [
-            "Winter",
-            "Hygiene",
-            "Sonstiges",
-            "Outdoor"
-        ],
-        "list": true
-    },
-    {
-        "name": "Fahrradurlaub",
-        "parents": [
-            "Sommer",
-            "Hygiene",
-            "Sonstiges",
-            "Fahrrad+",
-            "Mehrtagestour"
-        ],
-        "list": true
-    },
-    {
         "name": "Wanderurlaub",
         "parents": [
             "Sommer",
@@ -421,37 +325,7 @@
             "? Vortrag auf USB-Stick"
         ],
         "list": true
-    },
-    {
-        "name": "Fahrradtour",
-        "parents": [
-            "Sport",
-            "Fahrrad"
-        ],
-        "list": true
-    },
-    {
-        "name": "Geocaching-Tour",
-        "icon": "compass",
-        "parents": [
-            "Sport",
-            "Geocaching"
-        ],
-        "list": true
-    },
-    {
-        "name": "Squash",
-        "icon": "tennis",
-        "color": "warning",
-        "items": [
-            "Hallenschuhe",
-            "Schläger"
-        ],
-        "parents": [
-            "Sport"
-        ],
-        "list": true
-    },
+    }, 
     {
         "name": "Klettern",
         "icon": "climbing",
