@@ -61,21 +61,16 @@
             "Duschgel, Shampoo",
             "Zahnbürste",
             "Zahnpasta",
-            "Rasierer, Kabel",
             "Deo",
             "Haargel",
             "Taschentücher",
+            "Medikamente",
             "? Handtuch",
-            "? Kopfschmerztabletten, Medikamente",
             "? Mückenschutzmittel",
             "? Creme, Labello",
-            "? Sonnencreme",
-            "? Kontaktlinsen, Behälter, Flüssigkeit",
             "? Brillenetui",
             "? Nagelschere/-zwicker",
-            "? Rasierschaum",
             "? Wattestäbchen",
-            "? Ohropax",
             "? Desinfektionsmittel",
             "? Plastikbeutel für Flug"
         ]
@@ -90,9 +85,9 @@
             "Kopfhörer",
             "Musik",
             "Foto",
-            "Bücher, Kindle",
             "Ladegeräte (Handy, Foto, Akku)",
             "Akkus, Batterien",
+            "Steckerwürfel / Mogics Super Bagel",
             "Stifte, Papier",
             "? Reisepass",
             "? Zusätzlicher Rucksack",
@@ -105,19 +100,7 @@
             "? Kissen für Busfahrten, Flüge"
         ]
     },
-    {
-        "name": "Spiele",
-        "icon": "casino",
-        "items": [
-            "Spielkarten",
-            "Brettspiele",
-            "Backgammon",
-            "? Frisbee",
-            "? Fußball, Volleyball",
-            "? Kite"
-        ]
-    },
-    {
+     {
         "name": "Lebensmittel",
         "icon": "food",
         "items": [
@@ -177,19 +160,6 @@
         ]
     },
     {
-        "name": "Outdoor",
-        "icon": "pet-store",
-        "color": "danger",
-        "items": [
-            "GPS, Halterung, Ersatzakkus",
-            "Karten und Tracks für GPS",
-            "? POIs und Geocaches",
-            "? Taschenmesser",
-            "? Taschenlampe, Stirnlampe",
-            "? Erste Hilfe Set"
-        ]
-    },
-    {
         "name": "Wandern",
         "icon": "trail-walking",
         "color": "danger",
@@ -204,34 +174,48 @@
             "? Handschuhe",
             "? Trinkflasche",
             "? Flachmann"
-        ],
-        "parents": [
-            "Outdoor"
         ]
     },
     {
-        "name": "Mehrtagestour",
+        "name": "Kastenlauf",
         "icon": "location-arrow",
         "color": "danger",
         "items": [
-            "(Hütten-)Schlafsack",
-            "Packsäcke / Beutel / Tüten",
-            "? Regenschutz Rucksack",
-            "? Waschgel"
-        ],
-        "parents": [
-            "Outdoor"
+            "Kasten Bier",
+            "Bierkasteneis",
+            "Maßkrug",
+            "Öffner",
+            "Rucksack",
+            "Karabiner",
+            "Gaffa Tape",
+            "Kabelbinder",
+            "Snacks (Nüsse etc.)",
+            "Wasser",
+            "Brotzeit",
+            "Verbandskasten / Pflaster, Desinfektion",
+            "Handtücher",
+            "Taschentücher",
+            "Sonnebrille",
+            "? Poncho",
+            "? Klopapier",
+            "? Akkupack"
         ]
     },
     {
         "name": "Camping",
         "icon": "campground",
         "color": "danger",
-        "items": [
+        "items": [        
             "Zelt",
             "Isomatte",
             "Schlafsack",
             "Campingstuhl",
+            "Taschenmesser",
+            "Zeltlampe",
+            "Jackery + Solarzelle",
+            "Bier",
+            "? Taschenlampe, Stirnlampe",
+            "? Erste Hilfe Set",
             "? Mülltüten",
             "? Panzertape",
             "? Dosen-/ Flaschenöffner",
@@ -243,30 +227,38 @@
         ]
     },
     {
-        "name": "Mietwagen",
-        "icon": "car-rental",
+        "name": "Pentest-Intern",
+        "icon": "computer",
         "items": [
-            "Dokumente / Voucher",
-            "Navi + Halterung",
-            "Klinken-Kabel für Musik",
-            "? Ladegeräte für Zigarettenanzünder",
-            "? Kartenmaterial"
+            "Rechner",
+            "Netzteil",
+            "VMs",
+            "Steckerleiste",
+            "Switch + Richtiges Netzteil",
+            "Netzwerkkabel",
+            "? APU Board / Raspberry Pi + richtiges Netzteil",
+            "? USB-Sticks",
+            "? Schraubenzieher",
+            "? Festplattenadapter"
         ]
     },
     {
-        "name": "Sport",
-        "icon": "tennis",
-        "color": "warning",
+        "name": "SE",
+        "icon": "crown",
         "items": [
-            "Sportkleidung",
-            "Trinken",
-            "Handy, Schlüssel, Geld",
-            "? Essen (Müsliriegel, Obst, ..)",
-            "? Duschen: Handtuch, Duschgel, frische Sachen",
-            "? Kontaktlinsen, alte Brille",
-            "? Mitgliedskarte",
-            "? Taschentücher",
-            "? Kopfschmerztablette"
+            "Verkleidung",
+            "Werkzeug IT",
+            "Werkzeug Türen",
+            "Out-of-Jail",
+            "Phishingseiten",
+            "Caller ID Spoofing Ready",
+            "Handout",
+            "Ausweise, Hüllen, Lanyards",
+            "Identitäten eingeprägt",
+            "Swag"
+        ],
+        "parents": [
+            "Pentest-Intern"
         ]
     },
     {
@@ -283,19 +275,7 @@
         "parents": [
             "Sommer",
             "Hygiene",
-            "Sonstiges",
-            "Spiele"
-        ],
-        "list": true
-    },
-    {
-        "name": "Wanderurlaub",
-        "parents": [
-            "Sommer",
-            "Hygiene",
-            "Sonstiges",
-            "Wandern",
-            "Mehrtagestour"
+            "Sonstiges"
         ],
         "list": true
     },
@@ -323,22 +303,6 @@
             "Tablet (Ladegerät)",
             "Presenter",
             "? Vortrag auf USB-Stick"
-        ],
-        "list": true
-    }, 
-    {
-        "name": "Klettern",
-        "icon": "climbing",
-        "color": "warning",
-        "items": [
-            "Kletterschuhe",
-            "Klettergurt",
-            "Karabiner",
-            "Seil",
-            "Flip-Flops"
-        ],
-        "parents": [
-            "Sport"
         ],
         "list": true
     }
