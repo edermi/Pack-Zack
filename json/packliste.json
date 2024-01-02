@@ -54,7 +54,7 @@
         ]
     },
     {
-        "name": "Hygiene",
+        "name": "Hygiene & Co.",
         "icon": "beauty-salon",
         "color": "info",
         "items": [
@@ -65,12 +65,16 @@
             "Haargel",
             "Taschentücher",
             "Medikamente",
+            "Wattestäbchen",
+            "Blasenpflaster",
+            "Machina + Zubehör",
+            "Gehörschutz",
+            "Wundsalbe",
             "? Handtuch",
             "? Mückenschutzmittel",
             "? Creme, Labello",
             "? Brillenetui",
             "? Nagelschere/-zwicker",
-            "? Wattestäbchen",
             "? Desinfektionsmittel",
             "? Plastikbeutel für Flug"
         ]
@@ -85,7 +89,7 @@
             "Kopfhörer",
             "Musik",
             "Foto",
-            "Ladegeräte (Handy, Foto, Akku)",
+            "Ladegeräte (Handy, Foto, Akku, USB-C-Kabel)",
             "Akkus, Batterien",
             "Steckerwürfel / Mogics Super Bagel",
             "Stifte, Papier",
@@ -97,7 +101,8 @@
             "? Reiseführer",
             "? Regenschirm",
             "? Wäschebeutel",
-            "? Kissen für Busfahrten, Flüge"
+            "? Kissen für Busfahrten, Flüge",
+            "? Flipper Zero"
         ]
     },
      {
