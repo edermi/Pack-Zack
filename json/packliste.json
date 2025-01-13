@@ -267,6 +267,126 @@
         ]
     },
     {
+        "name": "Urban Whooping",
+        "icon": "point-of-interest",
+        "items": [
+            "Whoop",
+            "Brille",
+            "Funke",
+            "Akkus",
+            "Ladegerät",
+            "Ersatzprops",
+            "Werkzeug",
+            "Lötkolben",
+            "Vape",
+            "Speedybee Adapter + Kabel",
+            "Getränke",
+            "Musik/AirPods"
+        ]
+    },
+    {
+        "name": "FPV",
+        "icon": "point-of-interest",
+        "items": [
+            "Drohne",
+            "Funke (geladen)",
+            "Brille (geladen)",
+            "Akkus + (Adapter-)Kabel",
+            "Passende Propeller",
+            "Schraubenzieher",
+            "Zangen",
+            "Prop Tool",
+            "Ladegerät",
+            "SD Karten",
+            "Ersatzteile (Schrauben, Muttern, Straps, Antennen)",
+            "Lötkolben samt Zinn",
+            "USB Kabel: A auf C, C auf C",
+            "Stuhl",
+            "Tisch",
+            "Sonstige Adapter, je nach Bedarf",
+            "Isolierband",
+            "Micro SD Adapter",
+            "BEC Brille",
+            "Kabelbinder",
+            "Getränke",
+            "Musik",
+            "? Taschenmesser",
+            "? LiPo Checker",
+            "? ND Filter",
+            "? Actioncam",
+            "? Jackery",
+            "? Solarpanel",
+            "? Ventilator",
+            "? Speedybee Adapter"
+        ]
+    },
+    {
+    "name": "Kabel und Stecker",
+        "icon": "point-of-interest",
+        "items": [
+            "C-C",
+            "A-C",
+            "C-Lightning",
+            "GAN Netzteil",
+            "Magsafe Apple Watch",
+            "? A-Lightning",
+            "? Ausland: Adapter",
+            "? Reisen: Mehrfachstecker",
+            "? Festival: Powerbank"
+        ]
+    },
+    {
+        "name": "Therme",
+        "icon": "beauty-salon",
+        "color": "info",
+        "items": [
+            "Badehose!",
+            "Handtuch",
+            "Wechselklamotten",
+            "Vape",
+            "Duschgel, Shampoo",
+            "Bademantel",
+            "Medikamente"
+        ]
+    },
+    {
+        "name": "Fitnessstudio",
+        "icon": "beauty-salon",
+        "color": "info",
+        "items": [
+            "AirPods",
+            "Mitgliedsausweis",
+            "Handtuch klein",
+            "Wechselklamotten",
+            "? Handtuch groß",
+            "? Duschgel, Shampoo",
+            "? Deo"
+        ]
+    },
+    {
+        "name": "Bouldern",
+        "icon": "beauty-salon",
+        "color": "info",
+        "items": [
+            "Boulderschuhe",
+            "Wasserflasche",
+            "Chalk",
+            "Bürste",
+            "Tape",
+            "Nagelschere",
+            "Kleingeld",
+            "Handcreme",
+            "Wechselklamotten",
+            "? Handtuch",
+            "? Duschgel, Shampoo",
+            "? Deo"
+        ]
+    },
+
+
+
+
+    {
         "name": "Urlaub",
         "parents": [
             "Kleider",
